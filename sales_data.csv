@@ -1,0 +1,5 @@
+product_id,product_name,total_sales,units_sold,price
+1,Product A,200.5,10,20.05
+2,Product B,300.75,15,20.05
+3,Product C,400.0,20,20.00
+4,Product D,500.25,25,20.01
